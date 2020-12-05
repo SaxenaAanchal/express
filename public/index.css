@@ -1,0 +1,16 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+div
+{
+ display: flex;
+ align-items:center;
+ justify-content: center;
+ flex-direction: column;
+ height: 100vh;
+ text-align: center;
+}

@@ -1,0 +1,15 @@
+{
+  "name": "expressjswork",
+  "version": "1.0.0",
+  "description": "learning express from thapa",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aanchal saxena",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
